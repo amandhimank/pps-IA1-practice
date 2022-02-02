@@ -23,4 +23,5 @@ void add(int a, int b, int *sum){
 
 void output(int a, int b, int sum){
   printf("The sum of %d + %d is %d\n", a, b, sum);
-}
+} 
+
